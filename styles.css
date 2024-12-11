@@ -16,9 +16,10 @@ padding: 20px 10px;
 background: rgb(160, 177, 205); /* pick a color */
 border-radius: 25%;
 text-align: center;
+box-sizing: border-box;
 }
 .project img{
-    width: 400px;
+    width: 350px;
     height: 300px;
     margin: 10px;
     border: 2px solid rgb(234, 229, 229); /* choose a color */
@@ -35,8 +36,8 @@ text-align: center;
         }
 
         .about img {
-            width: 150px;
-            height: 200px;
+            width: 250px;
+            height: 300px;
             border-radius: 25%;
             border: 2px solid rgb(8, 7, 8);
             }
