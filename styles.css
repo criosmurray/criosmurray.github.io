@@ -10,17 +10,17 @@ h1 {
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
-width: 48%;
+width: 45%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(173, 173, 180); /* pick a color */
+background: rgb(160, 177, 205); /* pick a color */
 border-radius: 25%;
 }
 .project img{
-    width: 350px;
+    width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(110, 109, 111); /* choose a color */
+    border: 2px solid rgb(234, 229, 229); /* choose a color */
     display: block;
     margin: auto;
     }
@@ -37,7 +37,7 @@ border-radius: 25%;
             width: 150px;
             height: 200px;
             border-radius: 25%;
-            border: 2px solid rgb(14, 14, 14);
+            border: 2px solid rgb(8, 7, 8);
             }
 
             .about p {
@@ -46,9 +46,3 @@ border-radius: 25%;
                 margin: auto;
                 line-height: 125%;
                 }
-
-
-
-
-
-
