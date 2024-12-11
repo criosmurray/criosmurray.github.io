@@ -17,7 +17,7 @@ background: rgb(160, 177, 205); /* pick a color */
 border-radius: 25%;
 }
 .project img{
-    width: 300px;
+    width: 350px;
     height: 300px;
     margin: 10px;
     border: 2px solid rgb(234, 229, 229); /* choose a color */
@@ -34,7 +34,7 @@ border-radius: 25%;
         }
 
         .about img {
-            width: 150px;
+            width: 125px;
             height: 200px;
             border-radius: 25%;
             border: 2px solid rgb(8, 7, 8);
